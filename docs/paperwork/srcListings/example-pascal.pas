@@ -1,5 +1,8 @@
-program HelloWorld;
+program Arithmetic;
 
+var 
+    x: integer;
 begin
-  writeln("Hello, world!");
+    x := 10000 + 30 * 3;
+    exit(x);
 end.
