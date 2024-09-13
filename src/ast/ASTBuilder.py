@@ -82,10 +82,12 @@ class ASTBuilder(PascalListener):
            self.var_symbolTBL[name].append(ast)
 
     def enterProgram(self, ctx: PascalParser.ProgramContext):
-        pass
+        return super().enterVariableDeclaration(ctx)
     
     def exitProgram(self, ctx: PascalParser.ProgramContext):
-        programAst = ProgramAST()
+        moduleName = ctx.ID()
+        programAst = ProgramAST(moduleName)
+        
         for child in ctx.getChildren():
             if (not isinstance(child, Tree.TerminalNodeImpl)):
                 child_ast = self.prop[child]

@@ -1,8 +1,8 @@
 program Arithmetic;
+
 var 
-    x: integer,
-    y: integer;
+    x: integer;
 begin
-    x := 10000 + 20 * 2;
+    x := 10000 + 30 * 3;
     exit(x);
 end.

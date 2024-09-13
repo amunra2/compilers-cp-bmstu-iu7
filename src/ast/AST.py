@@ -24,11 +24,12 @@ class BaseAST(object):
 
 
 class ProgramAST(BaseAST):
-   def __init__(self):
+   def __init__(self, moduleName: str):
+      self.moduleName = moduleName
       self.asts = []
 
    def codeGenerate(self,var_ptr_symbolTBL):
-      module = ll.Module(name="course")
+      module = ll.Module(name=self.moduleName)
       func_type = ll.FunctionType(ll.IntType(32), [])
       func = ll.Function(module, func_type, name="main")
 
