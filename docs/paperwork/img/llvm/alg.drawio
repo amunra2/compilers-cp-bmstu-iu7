@@ -1,0 +1,262 @@
+<mxfile host="65bd71144e">
+    <diagram id="rECUlrFJV7B0TRUpIYzO" name="Page-3">
+        <mxGraphModel dx="1098" dy="-433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="tk0_fd86AV5R-C57VtCH-2" target="tk0_fd86AV5R-C57VtCH-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-2" value="Б" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="1200" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tk0_fd86AV5R-C57VtCH-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="600" y="1400" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="600" y="1360"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-4" value="Есть&lt;br&gt;выражение, которое&lt;br&gt;выполняется после&lt;br&gt;тела" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="1320" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="tk0_fd86AV5R-C57VtCH-6" target="tk0_fd86AV5R-C57VtCH-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;next_body = новый блок с&lt;br&gt;родителем текущего блока&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="1400" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="tk0_fd86AV5R-C57VtCH-8" target="tk0_fd86AV5R-C57VtCH-10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Добавить&lt;br&gt;безусловный переход на&lt;br&gt;next_body&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="1520" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="tk0_fd86AV5R-C57VtCH-10" target="tk0_fd86AV5R-C57VtCH-11" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Назначить&lt;br&gt;next_body&lt;br&gt;текущим блоком&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="1640" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Посетить вершину&lt;br&gt;выражения&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="1760" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tk0_fd86AV5R-C57VtCH-11" target="tk0_fd86AV5R-C57VtCH-15" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="600" y="1960" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="600" y="1880"/>
+                            <mxPoint x="400" y="1880"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tk0_fd86AV5R-C57VtCH-4" target="tk0_fd86AV5R-C57VtCH-15" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="200" y="1360"/>
+                            <mxPoint x="200" y="1880"/>
+                            <mxPoint x="400" y="1880"/>
+                        </Array>
+                        <mxPoint x="200" y="1480" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tk0_fd86AV5R-C57VtCH-15" target="tk0_fd86AV5R-C57VtCH-17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Добавить безусловный&lt;br&gt;переход на&lt;br&gt;cond&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="1920" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=14;" parent="1" source="tk0_fd86AV5R-C57VtCH-17" target="tk0_fd86AV5R-C57VtCH-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Назначить&lt;br&gt;next&lt;br&gt;текущим блоком&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="2040" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-18" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="1330" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="tk0_fd86AV5R-C57VtCH-19" value="Конец" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="2160" width="240" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="-7X4kBdZIgbL-8Vb24gM" name="Page-2">
+        <mxGraphModel dx="1098" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="pcFM-SopRCa_L9bf6iu3-21" target="pcFM-SopRCa_L9bf6iu3-21" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pcFM-SopRCa_L9bf6iu3-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="640" y="240" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="640" y="200"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pcFM-SopRCa_L9bf6iu3-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="240" y="240" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="240" y="200"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-4" value="Есть условное&lt;br style=&quot;font-size: 14px;&quot;&gt;выражение" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="160" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="pcFM-SopRCa_L9bf6iu3-6" target="pcFM-SopRCa_L9bf6iu3-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;cond = новый блок с родителем текущего блока&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="240" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="pcFM-SopRCa_L9bf6iu3-8" target="pcFM-SopRCa_L9bf6iu3-10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Добавить&lt;br&gt;безусловный переход&lt;br&gt;с текущего блока на&lt;br&gt;cond&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="360" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="pcFM-SopRCa_L9bf6iu3-10" target="pcFM-SopRCa_L9bf6iu3-12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Сделать cond&lt;br&gt;текущим блоком&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="480" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="pcFM-SopRCa_L9bf6iu3-12" target="pcFM-SopRCa_L9bf6iu3-14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;cond = посетить&lt;br&gt;вершину условного выражения&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="600" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pcFM-SopRCa_L9bf6iu3-14" target="pcFM-SopRCa_L9bf6iu3-18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Если истина, то&lt;br&gt;добавить условный переход&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;cond на body&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;, иначе next&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="720" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pcFM-SopRCa_L9bf6iu3-16" target="pcFM-SopRCa_L9bf6iu3-18" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="840"/>
+                            <mxPoint x="440" y="840"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Добавить безусловный&lt;br&gt;переход с текущего блока&lt;br&gt;на body&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="240" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pcFM-SopRCa_L9bf6iu3-18" target="pcFM-SopRCa_L9bf6iu3-23" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Назначить&lt;br&gt;body&lt;br&gt;текущим блоком&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="880" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-19" value="Б" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="1120" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="pcFM-SopRCa_L9bf6iu3-21" target="pcFM-SopRCa_L9bf6iu3-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-21" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="40" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" parent="1" source="pcFM-SopRCa_L9bf6iu3-23" target="pcFM-SopRCa_L9bf6iu3-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Посетить&lt;br&gt;вершину блока&lt;br&gt;тела цикла&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="1000" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="pcFM-SopRCa_L9bf6iu3-24" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="170" width="40" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="t9X15T-bAVmE6qH7Ks0-" name="Page-1">
+        <mxGraphModel dx="1830" dy="1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-33" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="iXoKjsHPU5MIyQpeG4OI-32" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="440" y="360" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="N6nDb-u373goOHmMQUz--3" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="N6nDb-u373goOHmMQUz--2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;body = новый блок с родителем&lt;br style=&quot;font-size: 14px;&quot;&gt;текущего блока&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="160" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-31" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iXoKjsHPU5MIyQpeG4OI-30" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-30" value="Начало" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="40" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-34" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=0;" parent="1" source="iXoKjsHPU5MIyQpeG4OI-32" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="440" y="520" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;next = новый блок с родителем&lt;br style=&quot;font-size: 14px;&quot;&gt;текущего блока&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="400" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="iXoKjsHPU5MIyQpeG4OI-35" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="640" y="600" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="640" y="560"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iXoKjsHPU5MIyQpeG4OI-35" target="iXoKjsHPU5MIyQpeG4OI-63" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="440" y="880" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="240" y="560"/>
+                            <mxPoint x="240" y="720"/>
+                            <mxPoint x="440" y="720"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-35" value="Есть выражения&lt;br style=&quot;font-size: 13px;&quot;&gt;инициализации" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="520" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="iXoKjsHPU5MIyQpeG4OI-63" target="iXoKjsHPU5MIyQpeG4OI-63" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-37" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Посетить вершину с выражением&lt;br&gt;инициализации&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="600" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-41" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="530" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" parent="1" source="iXoKjsHPU5MIyQpeG4OI-37" target="iXoKjsHPU5MIyQpeG4OI-63" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="640" y="680" as="sourcePoint"/>
+                        <mxPoint x="440" y="880" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="640" y="720"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="iXoKjsHPU5MIyQpeG4OI-63" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="760" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="N6nDb-u373goOHmMQUz--2" value="cond = body&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="280" width="240" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
